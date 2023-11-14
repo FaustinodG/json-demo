@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Tom Holland",
+        "age": 27,
+        "role": "Actor"
+    },
+    {
+        "id": 2,
+        "name": "Andrew Garfield",
+        "age": 40,
+        "role": "Actor"
+    }
+]
