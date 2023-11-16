@@ -3,12 +3,18 @@
         "id": 1,
         "name": "Tom Holland",
         "age": 27,
-        "role": "Actor"
+        "role": "Peter Parker"
     },
     {
         "id": 2,
         "name": "Andrew Garfield",
         "age": 40,
-        "role": "Actor"
+        "role": "Peter Parker"
+    },
+    {
+        "id":3,
+        "name": "Toby Maguire",
+        "age": 48,
+        "role": "Peter Parker"
     }
 ]
